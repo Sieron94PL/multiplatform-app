@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/multiplatform.iml" filepath="$PROJECT_DIR$/multiplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiplatform-js/multiplatform-js.iml" filepath="$PROJECT_DIR$/.idea/modules/multiplatform-js/multiplatform-js.iml" group="multiplatform-js" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiplatform-js/multiplatform-js_main.iml" filepath="$PROJECT_DIR$/.idea/modules/multiplatform-js/multiplatform-js_main.iml" group="multiplatform-js" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiplatform-js/multiplatform-js_test.iml" filepath="$PROJECT_DIR$/.idea/modules/multiplatform-js/multiplatform-js_test.iml" group="multiplatform-js" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiplatform-jvm/multiplatform-jvm.iml" filepath="$PROJECT_DIR$/.idea/modules/multiplatform-jvm/multiplatform-jvm.iml" group="multiplatform-jvm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiplatform-jvm/multiplatform-jvm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/multiplatform-jvm/multiplatform-jvm_main.iml" group="multiplatform-jvm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiplatform-jvm/multiplatform-jvm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/multiplatform-jvm/multiplatform-jvm_test.iml" group="multiplatform-jvm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiplatform_main.iml" filepath="$PROJECT_DIR$/.idea/modules/multiplatform_main.iml" group="multiplatform" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiplatform_test.iml" filepath="$PROJECT_DIR$/.idea/modules/multiplatform_test.iml" group="multiplatform" />
+    </modules>
+  </component>
+</project>
